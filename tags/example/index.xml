@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on @linna.underwearfactory</title>
+    <link>/tags/example/</link>
+    <description>Recent content in Example on @linna.underwearfactory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Linna</copyright>
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>factory1</title>
+      <link>/factory/factory/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/factory/factory/</guid>
+      <description>an example to get you started
+This is a heading # This is a subheading # This is a subsubheading # This is a subsubsubheading # This is a paragraph with bold and italic text.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/factory/factory/featured.png" />
+    </item>
+    
+    <item>
+      <title>factory2</title>
+      <link>/factory/factory2/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/factory/factory2/</guid>
+      <description>an example to get you started
+This is a heading # This is a subheading # This is a subsubheading # This is a subsubsubheading # This is a paragraph with bold and italic text.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/factory/factory2/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -4419,28 +4419,6 @@ Note: 💡 Please send the product code to place an order.</description>
     </item>
     
     <item>
-      <title>factory1</title>
-      <link>/factory/factory/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/factory/factory/</guid>
-      <description>an example to get you started
-This is a heading # This is a subheading # This is a subsubheading # This is a subsubsubheading # This is a paragraph with bold and italic text.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/factory/factory/featured.png" />
-    </item>
-    
-    <item>
-      <title>factory2</title>
-      <link>/factory/factory2/</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/factory/factory2/</guid>
-      <description>an example to get you started
-This is a heading # This is a subheading # This is a subsubheading # This is a subsubsubheading # This is a paragraph with bold and italic text.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/factory/factory2/featured.png" />
-    </item>
-    
-    <item>
       <title>Super cool article that I wrote</title>
       <link>/posts/post-lite-one/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
